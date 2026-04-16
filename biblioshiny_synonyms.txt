@@ -1,0 +1,9 @@
+cnn,convolutional neural networks
+cnn,convolutional neural network
+cnn,convolutional neural network (cnn)
+earthquake,earthquakes
+machine learning,machine-learning
+deep learning,deep-learning
+deep learning,deep learning (dl)
+phase picking,seismic phase picking
+phase picking,picking
